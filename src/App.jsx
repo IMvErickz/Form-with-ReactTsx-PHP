@@ -1,5 +1,5 @@
 import './style/global.css'
-import Logo from './logo'
+import Logo from './logo.jsx'
 
 
 function App() {
